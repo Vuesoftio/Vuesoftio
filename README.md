@@ -5,10 +5,10 @@
    <br>
   sharing our advance designs and innovative methodologies with the community.
 - 💞️ We're looking to collaborate
--  <br>
+  <br>
   with teams and individuals on projects that push the boundaries of design and technology.
 - 📫 How to reach me:
--  <br>
+  <br>
   vuesoftio@gmail.com
    <br>
   https://www.linkedin.com/company/vuesoft/
