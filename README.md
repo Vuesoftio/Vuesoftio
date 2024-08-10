@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vuesoftio
+- 👋 Hi, @Vuesoftio here
 - 👀 We're interested in
   <br>
   delivering cutting-edge solutions in UX/UI design, web development, and product design.
