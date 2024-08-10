@@ -1,11 +1,16 @@
 - 👋 Hi, I’m @Vuesoftio
 - 👀 We're interested in
+  <br>
   delivering cutting-edge solutions in UX/UI design, web development, and product design.
+   <br>
   sharing our advance designs and innovative methodologies with the community.
-- 💞️ We're looking to collaborate 
+- 💞️ We're looking to collaborate
+-  <br>
   with teams and individuals on projects that push the boundaries of design and technology.
 - 📫 How to reach me:
+-  <br>
   vuesoftio@gmail.com
+   <br>
   https://www.linkedin.com/company/vuesoft/
 - 😄 Pronouns: We/Our
 
